@@ -1,0 +1,8 @@
+PRS DB Instructions
+=====================
+- Create a sql script for your PRS db:  prs_db_create.sql
+- You can save it in your sql-instruction folder
+- DB name should be prs
+- Create the db to the spec provided by your instructor, PRS Data Modelv04
+- Push up your sql-instruction repo once done
+- Send instructor a Slack message with the link to your repo for review
